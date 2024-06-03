@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>https://cnzakii.com/2024-05-05_open-source-contribution-log/</loc>
+    
+    <lastmod>2024-06-03</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://cnzakii.com/about/index.html</loc>
+    
+    <lastmod>2024-06-03</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://cnzakii.com/2024-05-07_gsoc-i-am-coming/</loc>
+    
+    <lastmod>2024-06-03</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+
+  <url>
+    <loc>https://cnzakii.com/</loc>
+    <lastmod>2024-06-03</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  
+  <url>
+    <loc>https://cnzakii.com/tags/%E5%BC%80%E6%BA%90/</loc>
+    <lastmod>2024-06-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://cnzakii.com/tags/GSoC/</loc>
+    <lastmod>2024-06-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://cnzakii.com/tags/Apache/</loc>
+    <lastmod>2024-06-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://cnzakii.com/tags/Dubbo/</loc>
+    <lastmod>2024-06-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://cnzakii.com/tags/Dubbo-python/</loc>
+    <lastmod>2024-06-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://cnzakii.com/tags/Python/</loc>
+    <lastmod>2024-06-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+
+  
+  <url>
+    <loc>https://cnzakii.com/categories/%E5%BC%80%E6%BA%90/</loc>
+    <lastmod>2024-06-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+</urlset>
